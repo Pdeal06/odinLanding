@@ -1,1 +1,2 @@
 # odinLanding
+This is going to be my second run through this project. I'm feeling extremely confident this time around and I have no idea how I let myself get so thrown off the first time. I'll revisit this section at the end though.
