@@ -15,10 +15,12 @@
 h1 {
     font-size: 48px;
     font-weight: 800;
+    margin: 0;
 }
 
 .header {
     display: flex;
+    justify-content: space-between;
 
 }
 
@@ -29,6 +31,16 @@ h1 {
 
 .header h2 {
     font-size: 24px;
+    margin: 0px;
+}
+
+.links {
+    display: flex;
+    gap:10px;
+}
+
+a {
+    text-decoration: none;
 }
 
 .secondSection h2 {
@@ -39,7 +51,8 @@ h1 {
 
 .thirdSection {
     background-color: #e5e7eb;
-    
+    font-size: 36px;
+    color: #1f2937;
 }
 
 .fourthSection {
