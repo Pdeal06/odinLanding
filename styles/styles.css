@@ -71,7 +71,26 @@ a {
     font-size: 36px;
     font-weight: 800;
     color: #1f2937;
+    display: flex;
+    justify-content: center;
 }
+
+.showcase {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.showcase img {
+    object-fit: cover;
+    border-style: solid;
+    border-color: #3882f6;
+    border-radius: 5px;
+
+}
+
+
 
 .thirdSection {
     background-color: #e5e7eb;
@@ -84,7 +103,5 @@ a {
 
 }
 
-.showcase {
-    display: flex;
-}
+
 
