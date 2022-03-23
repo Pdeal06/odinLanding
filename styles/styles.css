@@ -103,6 +103,19 @@ a {
     background-color: #e5e7eb;
     font-size: 36px;
     color: #1f2937;
+    padding: 150px;
+}
+
+#Quote {
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+.Speaker {
+    display: flex;
+    justify-content: flex-end;
+    margin:0 30px 0 0;
 }
 
 .fourthSection {
