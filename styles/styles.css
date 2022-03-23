@@ -1,3 +1,8 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 .content {
     display: flex;
     flex-direction: column;
@@ -157,4 +162,11 @@ a {
     font-size: 18px;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+    padding: 20px 50px;
+}
 
