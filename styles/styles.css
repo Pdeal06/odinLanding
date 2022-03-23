@@ -124,9 +124,37 @@ a {
 }
 
 .fourthSection {
-    background-color: #3882f6;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 80px;    
 }
 
+.blueRectangle {
+    background-color: #3882f6;
+    padding: 40px 120px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 725px;
+    font-size: 18px;
+}
+
+.blueRectangle h3, .blueRectangle p {
+    margin: 0px;
+    color: #f9faf8;
+}
+
+.blueRectangle button {
+    background-color: #3882f6;
+    border: #f9faf8;
+    border-style: solid;
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: #f9faf8;
+    font-weight: bold;
+    font-size: 18px;
+}
 
 
